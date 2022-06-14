@@ -28,6 +28,7 @@ Could have
 Will not have
   Location tracking
   Share function
+  
   Task editing
   
   
