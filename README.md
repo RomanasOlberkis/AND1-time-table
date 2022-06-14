@@ -11,6 +11,8 @@ Must have
   Delete profile
 
 
+
+
 Should have
   Delete profile
   Delete all tasks
@@ -19,10 +21,16 @@ Should have
   Add start time
 
 
+
+
+
 Could have
   Set location
   Delete all task
   Request a new password
+  
+  
+  
   
   
 Will not have
